@@ -1,2 +1,2 @@
 # AdminProy3_Ing
-Administración de Proyectos de Software || Equipo 4
+Administración de Proyectos de Software || Equipo 3
